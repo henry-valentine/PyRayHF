@@ -3,7 +3,7 @@ All notable changes to this project are documented in this file. This project
 adheres to [Semantic Versioning](https://semver.org/).
 
 ## 0.X.X (XX-XX-2026)
-* Fixed NumPy >= 2.3 compatibility issue
+* Fixed NumPy >= 2.3 compatibility issue that arose when converting a single value from an array to a float
 
 ## 0.1.0 (12-23-2025)
 * 2-D raytracing functions are added
